@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T18:06:54.269Z",
+  "generated_at": "2026-09-19T18:14:13.934Z",
   "items": {
     "problem:96": {
       "kind": "problem",
@@ -50,6 +50,19 @@
       "path": "problems/0114-implement-global-average-pooling",
       "first_solved_at": "2026-09-18T18:06:53.269Z",
       "last_pushed_at": "2026-09-18T18:06:53.269Z",
+      "language": "python",
+      "lines": 4
+    },
+    "problem:45": {
+      "kind": "problem",
+      "id": "45",
+      "title": "Linear Kernel Function",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/45",
+      "path": "problems/0045-linear-kernel-function",
+      "first_solved_at": "2026-09-19T18:14:13.815Z",
+      "last_pushed_at": "2026-09-19T18:14:13.815Z",
       "language": "python",
       "lines": 4
     }
