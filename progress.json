@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T00:23:17.281Z",
+  "generated_at": "2026-09-21T00:23:18.770Z",
   "items": {
     "problem:96": {
       "kind": "problem",
@@ -559,6 +559,32 @@
       "last_pushed_at": "2026-08-02T15:51:56.003Z",
       "language": "python",
       "lines": 25
+    },
+    "problem:34": {
+      "kind": "problem",
+      "id": "34",
+      "title": "One-Hot Encoding of Nominal Values",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/34",
+      "path": "problems/0034-one-hot-encoding-of-nominal-values",
+      "first_solved_at": "2026-08-03T02:09:38.509Z",
+      "last_pushed_at": "2026-08-03T02:09:38.509Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:16": {
+      "kind": "problem",
+      "id": "16",
+      "title": "Feature Scaling Implementation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/16",
+      "path": "problems/0016-feature-scaling-implementation",
+      "first_solved_at": "2026-08-03T12:32:12.378Z",
+      "last_pushed_at": "2026-08-03T12:32:12.378Z",
+      "language": "python",
+      "lines": 11
     }
   }
 }
