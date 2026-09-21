@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**54** solved · 53 problems · 0 labs · 1 math
+**55** solved · 54 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -56,6 +56,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute the Hessian Matrix](https://www.deep-ml.com/problems/218) | medium | 2026-07-20 | [solution](problems/0218-compute-the-hessian-matrix) |
 | [Derivative of Cross-Entropy Loss w.r.t. Logits](https://www.deep-ml.com/problems/220) | medium | 2026-07-21 | [solution](problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-07-20 | [solution](problems/0219-derivative-of-softmax) |
+| [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2026-08-11 | [solution](problems/0054-implementing-a-simple-rnn) |
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-07-20 | [solution](problems/0202-jacobian-matrix-calculation) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-07-12 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-07-12 | [solution](problems/0007-matrix-transformation) |
