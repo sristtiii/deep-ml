@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**38** solved · 38 problems · 0 labs · 0 math
+**40** solved · 40 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,11 +18,13 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Dice Score for Classification](https://www.deep-ml.com/problems/73) | easy | 2026-09-19 | [solution](problems/0073-calculate-dice-score-for-classification) |
 | [Calculate Mean Absolute Error (MAE)](https://www.deep-ml.com/problems/93) | easy | 2026-07-20 | [solution](problems/0093-calculate-mean-absolute-error-mae) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-07-03 | [solution](problems/0004-calculate-mean-by-row-or-column) |
+| [Calculate P50/P95/P99 Latency Percentiles](https://www.deep-ml.com/problems/293) | easy | 2026-07-22 | [solution](problems/0293-calculate-p50-p95-p99-latency-percentiles) |
 | [Calculate the Phi Coefficient](https://www.deep-ml.com/problems/95) | easy | 2026-09-21 | [solution](problems/0095-calculate-the-phi-coefficient) |
 | [Compute the Cross Product of Two 3D Vectors](https://www.deep-ml.com/problems/118) | easy | 2026-07-20 | [solution](problems/0118-compute-the-cross-product-of-two-3d-vectors) |
 | [Count Words Appearing Exactly Once in Each of Two Lists](https://www.deep-ml.com/problems/1141) | easy | 2026-09-16 | [solution](problems/1141-count-words-appearing-exactly-once-in-each-of-two-lists) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-06-23 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Derivatives of Activation Functions](https://www.deep-ml.com/problems/217) | easy | 2026-07-20 | [solution](problems/0217-derivatives-of-activation-functions) |
+| [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2026-07-22 | [solution](problems/0078-descriptive-statistics-calculator) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-07-20 | [solution](problems/0083-dot-product-calculator) |
 | [Gradient Direction and Magnitude](https://www.deep-ml.com/problems/308) | easy | 2026-07-17 | [solution](problems/0308-gradient-direction-and-magnitude) |
 | [Implement Global Average Pooling](https://www.deep-ml.com/problems/114) | easy | 2026-09-18 | [solution](problems/0114-implement-global-average-pooling) |

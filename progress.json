@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T00:23:11.331Z",
+  "generated_at": "2026-09-21T00:23:12.840Z",
   "items": {
     "problem:96": {
       "kind": "problem",
@@ -494,6 +494,32 @@
       "last_pushed_at": "2026-07-21T02:11:10.205Z",
       "language": "python",
       "lines": 28
+    },
+    "problem:78": {
+      "kind": "problem",
+      "id": "78",
+      "title": "Descriptive Statistics Calculator",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/78",
+      "path": "problems/0078-descriptive-statistics-calculator",
+      "first_solved_at": "2026-07-22T18:16:38.878Z",
+      "last_pushed_at": "2026-07-22T18:16:38.878Z",
+      "language": "python",
+      "lines": 69
+    },
+    "problem:293": {
+      "kind": "problem",
+      "id": "293",
+      "title": "Calculate P50/P95/P99 Latency Percentiles",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/293",
+      "path": "problems/0293-calculate-p50-p95-p99-latency-percentiles",
+      "first_solved_at": "2026-07-22T18:25:14.606Z",
+      "last_pushed_at": "2026-07-22T18:25:14.606Z",
+      "language": "python",
+      "lines": 11
     }
   }
 }
