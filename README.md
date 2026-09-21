@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**49** solved · 48 problems · 0 labs · 1 math
+**50** solved · 49 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -32,6 +32,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Expected Value and Variance of an n-Sided Die](https://www.deep-ml.com/problems/179) | easy | 2026-07-23 | [solution](problems/0179-expected-value-and-variance-of-an-n-sided-die) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-08-03 | [solution](problems/0016-feature-scaling-implementation) |
 | [Gradient Direction and Magnitude](https://www.deep-ml.com/problems/308) | easy | 2026-07-17 | [solution](problems/0308-gradient-direction-and-magnitude) |
+| [Implement F-Score Calculation for Binary Classification](https://www.deep-ml.com/problems/61) | easy | 2026-08-09 | [solution](problems/0061-implement-f-score-calculation-for-binary-classification) |
 | [Implement Global Average Pooling](https://www.deep-ml.com/problems/114) | easy | 2026-09-18 | [solution](problems/0114-implement-global-average-pooling) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-07-20 | [solution](problems/0042-implement-relu-activation-function) |
 | [Implement the Hard Sigmoid Activation Function](https://www.deep-ml.com/problems/96) | easy | 2026-09-15 | [solution](problems/0096-implement-the-hard-sigmoid-activation-function) |
