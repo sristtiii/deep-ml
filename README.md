@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**41** solved · 41 problems · 0 labs · 0 math
+**42** solved · 42 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,6 +13,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2026-07-12 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
+| [Calculate Conditional Probability from Data](https://www.deep-ml.com/problems/168) | easy | 2026-08-01 | [solution](problems/0168-calculate-conditional-probability-from-data) |
 | [Calculate Cosine Similarity Between Vectors](https://www.deep-ml.com/problems/76) | easy | 2026-07-20 | [solution](problems/0076-calculate-cosine-similarity-between-vectors) |
 | [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2026-07-13 | [solution](problems/0010-calculate-covariance-matrix) |
 | [Calculate Dice Score for Classification](https://www.deep-ml.com/problems/73) | easy | 2026-09-19 | [solution](problems/0073-calculate-dice-score-for-classification) |
