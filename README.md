@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**10** solved · 10 problems · 0 labs · 0 math
+**11** solved · 11 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,6 +13,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Calculate Dice Score for Classification](https://www.deep-ml.com/problems/73) | easy | 2026-09-19 | [solution](problems/0073-calculate-dice-score-for-classification) |
+| [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-07-03 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Calculate the Phi Coefficient](https://www.deep-ml.com/problems/95) | easy | 2026-09-21 | [solution](problems/0095-calculate-the-phi-coefficient) |
 | [Count Words Appearing Exactly Once in Each of Two Lists](https://www.deep-ml.com/problems/1141) | easy | 2026-09-16 | [solution](problems/1141-count-words-appearing-exactly-once-in-each-of-two-lists) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-06-23 | [solution](problems/0116-derivative-of-a-polynomial) |
