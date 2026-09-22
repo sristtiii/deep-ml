@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T05:57:09.639Z",
+  "generated_at": "2026-09-22T05:57:16.455Z",
   "items": {
     "problem:96": {
       "kind": "problem",
@@ -749,7 +749,7 @@
       "url": "https://www.deep-ml.com/problems/987",
       "path": "problems/0987-laplace-smoothing-for-bigram-probabilities",
       "first_solved_at": "2026-09-22T05:57:08.065Z",
-      "last_pushed_at": "2026-09-22T05:57:08.065Z",
+      "last_pushed_at": "2026-09-22T05:57:15.146Z",
       "language": "python",
       "lines": 24
     }
