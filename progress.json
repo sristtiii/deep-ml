@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T08:12:46.304Z",
+  "generated_at": "2026-09-24T17:42:32.155Z",
   "items": {
     "problem:96": {
       "kind": "problem",
@@ -765,6 +765,19 @@
       "last_pushed_at": "2026-09-23T08:12:44.800Z",
       "language": "python",
       "lines": 44
+    },
+    "problem:774": {
+      "kind": "problem",
+      "id": "774",
+      "title": "Prompt Complexity Scoring via Intention Tag Count",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/774",
+      "path": "problems/0774-prompt-complexity-scoring-via-intention-tag-count",
+      "first_solved_at": "2026-09-24T17:42:29.556Z",
+      "last_pushed_at": "2026-09-24T17:42:29.556Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
