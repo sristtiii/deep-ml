@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T07:05:06.550Z",
+  "generated_at": "2026-09-28T07:05:08.801Z",
   "items": {
     "problem:96": {
       "kind": "problem",
@@ -999,6 +999,32 @@
       "last_pushed_at": "2026-08-22T01:20:08.771Z",
       "language": "python",
       "lines": 25
+    },
+    "problem:112": {
+      "kind": "problem",
+      "id": "112",
+      "title": "Min-Max Scaling of Feature Values",
+      "difficulty": "easy",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/112",
+      "path": "problems/0112-min-max-scaling-of-feature-values",
+      "first_solved_at": "2026-08-30T14:22:29.743Z",
+      "last_pushed_at": "2026-08-30T14:22:29.743Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:355": {
+      "kind": "problem",
+      "id": "355",
+      "title": "Outlier Detection and Removal Using IQR Method",
+      "difficulty": "medium",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/355",
+      "path": "problems/0355-outlier-detection-and-removal-using-iqr-method",
+      "first_solved_at": "2026-08-30T15:10:45.319Z",
+      "last_pushed_at": "2026-08-30T15:10:45.319Z",
+      "language": "python",
+      "lines": 35
     }
   }
 }
