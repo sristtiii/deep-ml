@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T07:04:58.684Z",
+  "generated_at": "2026-09-28T07:05:00.587Z",
   "items": {
     "problem:96": {
       "kind": "problem",
@@ -908,6 +908,45 @@
       "last_pushed_at": "2026-08-16T09:33:32.182Z",
       "language": "python",
       "lines": 19
+    },
+    "problem:940": {
+      "kind": "problem",
+      "id": "940",
+      "title": "Regex-Based Text Tokenizer",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/940",
+      "path": "problems/0940-regex-based-text-tokenizer",
+      "first_solved_at": "2026-08-17T15:41:05.009Z",
+      "last_pushed_at": "2026-08-17T15:41:05.009Z",
+      "language": "python",
+      "lines": 32
+    },
+    "problem:129": {
+      "kind": "problem",
+      "id": "129",
+      "title": "Calculate Unigram Probability from Corpus",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/129",
+      "path": "problems/0129-calculate-unigram-probability-from-corpus",
+      "first_solved_at": "2026-08-17T15:50:50.144Z",
+      "last_pushed_at": "2026-08-17T15:50:50.144Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:953": {
+      "kind": "problem",
+      "id": "953",
+      "title": "Calculate Vocabulary Size from Token List",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/953",
+      "path": "problems/0953-calculate-vocabulary-size-from-token-list",
+      "first_solved_at": "2026-08-17T16:03:07.387Z",
+      "last_pushed_at": "2026-08-17T16:03:07.387Z",
+      "language": "python",
+      "lines": 5
     }
   }
 }
