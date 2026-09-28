@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T07:04:54.363Z",
+  "generated_at": "2026-09-28T07:04:56.369Z",
   "items": {
     "problem:96": {
       "kind": "problem",
@@ -843,6 +843,58 @@
       "last_pushed_at": "2026-08-14T06:20:48.026Z",
       "language": "python",
       "lines": 7
+    },
+    "problem:75": {
+      "kind": "problem",
+      "id": "75",
+      "title": "Generate a Confusion Matrix for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/75",
+      "path": "problems/0075-generate-a-confusion-matrix-for-binary-classification",
+      "first_solved_at": "2026-08-15T04:09:52.474Z",
+      "last_pushed_at": "2026-08-15T04:09:52.474Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:71": {
+      "kind": "problem",
+      "id": "71",
+      "title": "Calculate Root Mean Square Error (RMSE)",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/71",
+      "path": "problems/0071-calculate-root-mean-square-error-rmse",
+      "first_solved_at": "2026-08-15T04:26:33.818Z",
+      "last_pushed_at": "2026-08-15T04:26:33.818Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:77": {
+      "kind": "problem",
+      "id": "77",
+      "title": "Calculate Performance Metrics for a Classification Model",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/77",
+      "path": "problems/0077-calculate-performance-metrics-for-a-classification-model",
+      "first_solved_at": "2026-08-15T04:45:04.281Z",
+      "last_pushed_at": "2026-08-15T04:45:04.281Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:69": {
+      "kind": "problem",
+      "id": "69",
+      "title": "Calculate R-squared for Regression Analysis",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/69",
+      "path": "problems/0069-calculate-r-squared-for-regression-analysis",
+      "first_solved_at": "2026-08-15T23:45:38.829Z",
+      "last_pushed_at": "2026-08-15T23:45:38.829Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }
