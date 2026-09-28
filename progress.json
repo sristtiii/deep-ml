@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T07:05:35.342Z",
+  "generated_at": "2026-09-28T07:05:37.491Z",
   "items": {
     "problem:96": {
       "kind": "problem",
@@ -1220,6 +1220,19 @@
       "last_pushed_at": "2026-09-12T17:35:32.071Z",
       "language": "python",
       "lines": 3
+    },
+    "problem:1186": {
+      "kind": "problem",
+      "id": "1186",
+      "title": "Number of Islands (Grid Connected Components)",
+      "difficulty": "medium",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/1186",
+      "path": "problems/1186-number-of-islands-grid-connected-components",
+      "first_solved_at": "2026-09-13T18:23:19.748Z",
+      "last_pushed_at": "2026-09-13T18:23:19.748Z",
+      "language": "python",
+      "lines": 33
     }
   }
 }
