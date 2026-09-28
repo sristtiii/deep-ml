@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T07:05:32.869Z",
+  "generated_at": "2026-09-28T07:05:35.342Z",
   "items": {
     "problem:96": {
       "kind": "problem",
@@ -1207,6 +1207,19 @@
       "last_pushed_at": "2026-09-11T06:35:14.378Z",
       "language": "python",
       "lines": 22
+    },
+    "problem:1137": {
+      "kind": "problem",
+      "id": "1137",
+      "title": "Top-K Largest Elements in a List",
+      "difficulty": "easy",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/1137",
+      "path": "problems/1137-top-k-largest-elements-in-a-list",
+      "first_solved_at": "2026-09-12T17:35:32.071Z",
+      "last_pushed_at": "2026-09-12T17:35:32.071Z",
+      "language": "python",
+      "lines": 3
     }
   }
 }
