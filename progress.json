@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T07:04:44.366Z",
+  "generated_at": "2026-09-28T07:04:51.693Z",
   "items": {
     "problem:96": {
       "kind": "problem",
@@ -804,6 +804,32 @@
       "last_pushed_at": "2026-09-28T07:04:43.495Z",
       "language": "python",
       "lines": 11
+    },
+    "problem:81": {
+      "kind": "problem",
+      "id": "81",
+      "title": "Poisson Distribution Probability Calculator",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/81",
+      "path": "problems/0081-poisson-distribution-probability-calculator",
+      "first_solved_at": "2026-08-13T03:10:35.340Z",
+      "last_pushed_at": "2026-08-13T03:10:35.340Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:79": {
+      "kind": "problem",
+      "id": "79",
+      "title": "Binomial Distribution Probability",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/79",
+      "path": "problems/0079-binomial-distribution-probability",
+      "first_solved_at": "2026-08-13T03:16:02.119Z",
+      "last_pushed_at": "2026-08-13T03:16:02.119Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }
