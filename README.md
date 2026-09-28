@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**85** solved · 84 problems · 0 labs · 1 math
+**86** solved · 85 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -96,6 +96,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-08-10 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-08-04 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-08-05 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
+| [Tensor Puzzle: Bincount by Scatter-Add](https://www.deep-ml.com/problems/1282) | medium | 2026-09-04 | [solution](problems/1282-tensor-puzzle-bincount-by-scatter-add) |
 
 ## Math
 
