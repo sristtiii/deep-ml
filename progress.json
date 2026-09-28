@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T07:05:39.520Z",
+  "generated_at": "2026-09-28T07:05:41.223Z",
   "items": {
     "problem:96": {
       "kind": "problem",
@@ -1246,6 +1246,83 @@
       "last_pushed_at": "2026-09-14T17:34:53.075Z",
       "language": "python",
       "lines": 37
+    },
+    "math:1": {
+      "kind": "math",
+      "id": "1",
+      "title": "Derivatives and Gradients",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/1",
+      "path": "math/0001-derivatives-and-gradients",
+      "first_solved_at": "2026-09-28T07:05:41.222Z",
+      "last_pushed_at": "2026-09-28T07:05:41.222Z"
+    },
+    "math:2": {
+      "kind": "math",
+      "id": "2",
+      "title": "Multivariate Calculus",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/2",
+      "path": "math/0002-multivariate-calculus",
+      "first_solved_at": "2026-09-28T07:05:41.222Z",
+      "last_pushed_at": "2026-09-28T07:05:41.222Z"
+    },
+    "math:3": {
+      "kind": "math",
+      "id": "3",
+      "title": "Neural Network Derivatives",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/3",
+      "path": "math/0003-neural-network-derivatives",
+      "first_solved_at": "2026-09-28T07:05:41.222Z",
+      "last_pushed_at": "2026-09-28T07:05:41.222Z"
+    },
+    "math:7": {
+      "kind": "math",
+      "id": "7",
+      "title": "Vector Operations",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/7",
+      "path": "math/0007-vector-operations",
+      "first_solved_at": "2026-09-28T07:05:41.222Z",
+      "last_pushed_at": "2026-09-28T07:05:41.222Z"
+    },
+    "math:8": {
+      "kind": "math",
+      "id": "8",
+      "title": "Vector Norms and Linear Independence",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/8",
+      "path": "math/0008-vector-norms-and-linear-independence",
+      "first_solved_at": "2026-09-28T07:05:41.222Z",
+      "last_pushed_at": "2026-09-28T07:05:41.222Z"
+    },
+    "math:18": {
+      "kind": "math",
+      "id": "18",
+      "title": "Descriptive Statistics",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/18",
+      "path": "math/0018-descriptive-statistics",
+      "first_solved_at": "2026-09-28T07:05:41.222Z",
+      "last_pushed_at": "2026-09-28T07:05:41.222Z"
+    },
+    "math:19": {
+      "kind": "math",
+      "id": "19",
+      "title": "Probability Fundamentals",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/19",
+      "path": "math/0019-probability-fundamentals",
+      "first_solved_at": "2026-09-28T07:05:41.222Z",
+      "last_pushed_at": "2026-09-28T07:05:41.222Z"
     }
   }
 }
