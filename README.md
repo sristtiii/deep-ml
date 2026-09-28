@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**69** solved · 68 problems · 0 labs · 1 math
+**70** solved · 69 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Binary Classification with Logistic Regression](https://www.deep-ml.com/problems/104) | easy | 2026-08-16 | [solution](problems/0104-binary-classification-with-logistic-regression) |
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2026-07-12 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2026-08-02 | [solution](problems/0036-calculate-accuracy-score) |
 | [Calculate Conditional Probability from Data](https://www.deep-ml.com/problems/168) | easy | 2026-08-01 | [solution](problems/0168-calculate-conditional-probability-from-data) |
