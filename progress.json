@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T07:05:14.755Z",
+  "generated_at": "2026-09-28T07:05:16.659Z",
   "items": {
     "problem:96": {
       "kind": "problem",
@@ -1064,6 +1064,45 @@
       "last_pushed_at": "2026-09-02T16:33:55.123Z",
       "language": "python",
       "lines": 4
+    },
+    "problem:1269": {
+      "kind": "problem",
+      "id": "1269",
+      "title": "Tensor Puzzle: Sum a Vector with a Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1269",
+      "path": "problems/1269-tensor-puzzle-sum-a-vector-with-a-dot-product",
+      "first_solved_at": "2026-09-03T06:59:38.294Z",
+      "last_pushed_at": "2026-09-03T06:59:38.294Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:1271": {
+      "kind": "problem",
+      "id": "1271",
+      "title": "Tensor Puzzle: Extract the Diagonal",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1271",
+      "path": "problems/1271-tensor-puzzle-extract-the-diagonal",
+      "first_solved_at": "2026-09-03T16:20:46.810Z",
+      "last_pushed_at": "2026-09-03T16:20:46.810Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:1270": {
+      "kind": "problem",
+      "id": "1270",
+      "title": "Tensor Puzzle: Outer Product via Broadcasting",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1270",
+      "path": "problems/1270-tensor-puzzle-outer-product-via-broadcasting",
+      "first_solved_at": "2026-09-03T16:35:12.841Z",
+      "last_pushed_at": "2026-09-03T16:35:12.841Z",
+      "language": "python",
+      "lines": 5
     }
   }
 }
