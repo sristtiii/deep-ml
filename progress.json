@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T18:01:06.249Z",
+  "generated_at": "2026-10-03T06:22:37.580Z",
   "items": {
     "problem:96": {
       "kind": "problem",
@@ -1375,6 +1375,19 @@
       "last_pushed_at": "2026-10-02T18:01:03.348Z",
       "language": "sql",
       "lines": 4
+    },
+    "problem:1246": {
+      "kind": "problem",
+      "id": "1246",
+      "title": "Multi-Source BFS: Time to Fill a Grid",
+      "difficulty": "medium",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/1246",
+      "path": "problems/1246-multi-source-bfs-time-to-fill-a-grid",
+      "first_solved_at": "2026-10-03T06:22:36.126Z",
+      "last_pushed_at": "2026-10-03T06:22:36.126Z",
+      "language": "python",
+      "lines": 57
     }
   }
 }
