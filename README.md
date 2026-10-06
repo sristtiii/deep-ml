@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**110** solved · 102 problems · 0 labs · 8 math
+**111** solved · 103 problems · 0 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -90,6 +90,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Valid Palindrome II (Delete At Most One Char)](https://www.deep-ml.com/problems/1160) | easy | 2026-09-17 | [solution](problems/1160-valid-palindrome-ii-delete-at-most-one-char) |
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-07-20 | [solution](problems/0121-vector-element-wise-sum) |
 | [Vector Norms (L1/L2/L-inf) and the Frobenius Norm](https://www.deep-ml.com/problems/328) | easy | 2026-07-20 | [solution](problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm) |
+| [Your first JOIN](https://www.deep-ml.com/problems/1109) | easy | 2026-10-06 | [solution](problems/1109-your-first-join) |
 | [Best Meeting Point on a 2D Grid](https://www.deep-ml.com/problems/1085) | medium | 2026-09-14 | [solution](problems/1085-best-meeting-point-on-a-2d-grid) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2026-08-13 | [solution](problems/0079-binomial-distribution-probability) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-07-12 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
