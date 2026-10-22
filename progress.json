@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T17:22:25.940Z",
+  "generated_at": "2026-10-22T15:50:33.028Z",
   "items": {
     "problem:96": {
       "kind": "problem",
@@ -1492,6 +1492,19 @@
       "last_pushed_at": "2026-10-14T17:22:25.123Z",
       "language": "sql",
       "lines": 4
+    },
+    "problem:818": {
+      "kind": "problem",
+      "id": "818",
+      "title": "Classical Multidimensional Scaling (MDS)",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/818",
+      "path": "problems/0818-classical-multidimensional-scaling-mds",
+      "first_solved_at": "2026-10-22T15:50:29.813Z",
+      "last_pushed_at": "2026-10-22T15:50:29.813Z",
+      "language": "python",
+      "lines": 22
     }
   }
 }
