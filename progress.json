@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T17:28:11.328Z",
+  "generated_at": "2026-11-03T15:57:46.989Z",
   "items": {
     "problem:96": {
       "kind": "problem",
@@ -1557,6 +1557,19 @@
       "last_pushed_at": "2026-11-02T17:28:10.197Z",
       "language": "sql",
       "lines": 6
+    },
+    "problem:1888": {
+      "kind": "problem",
+      "id": "1888",
+      "title": "Autoencoder Regularizers: Contractive Jacobian Penalty and KL Sparsity",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1888",
+      "path": "problems/1888-autoencoder-regularizers-contractive-jacobian-penalty-and-kl-sparsity",
+      "first_solved_at": "2026-11-03T15:57:46.320Z",
+      "last_pushed_at": "2026-11-03T15:57:46.320Z",
+      "language": "python",
+      "lines": 27
     }
   }
 }
