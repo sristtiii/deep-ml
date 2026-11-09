@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**127** solved · 119 problems · 0 labs · 8 math
+**128** solved · 120 problems · 0 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -84,6 +84,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Simple Word Tokenizer Encode and Decode](https://www.deep-ml.com/problems/942) | easy | 2026-09-05 | [solution](problems/0942-simple-word-tokenizer-encode-and-decode) |
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-07-18 | [solution](problems/0024-single-neuron) |
 | [Sliding Window Text Dataset Generator](https://www.deep-ml.com/problems/944) | easy | 2026-09-08 | [solution](problems/0944-sliding-window-text-dataset-generator) |
+| [Smooth L1 Loss with a Beta Parameter](https://www.deep-ml.com/problems/1372) | easy | 2026-11-09 | [solution](problems/1372-smooth-l1-loss-with-a-beta-parameter) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-08-10 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [Sort results with ORDER BY](https://www.deep-ml.com/problems/1104) | easy | 2026-10-02 | [solution](problems/1104-sort-results-with-order-by) |
 | [Tensor Puzzle: Extract the Diagonal](https://www.deep-ml.com/problems/1271) | easy | 2026-09-03 | [solution](problems/1271-tensor-puzzle-extract-the-diagonal) |
