@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T17:26:28.608Z",
+  "generated_at": "2026-11-09T15:38:27.659Z",
   "items": {
     "problem:96": {
       "kind": "problem",
@@ -1622,6 +1622,19 @@
       "last_pushed_at": "2026-11-08T17:26:26.685Z",
       "language": "sql",
       "lines": 11
+    },
+    "problem:257": {
+      "kind": "problem",
+      "id": "257",
+      "title": "Compute Temporal Difference Error",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/257",
+      "path": "problems/0257-compute-temporal-difference-error",
+      "first_solved_at": "2026-11-09T15:38:15.892Z",
+      "last_pushed_at": "2026-11-09T15:38:15.892Z",
+      "language": "python",
+      "lines": 5
     }
   }
 }
