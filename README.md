@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**128** solved · 120 problems · 0 labs · 8 math
+**129** solved · 121 problems · 0 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -61,6 +61,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2026-08-10 | [solution](problems/0039-implementation-of-log-softmax-function) |
 | [Incremental Mean for Online Reward Estimation](https://www.deep-ml.com/problems/159) | easy | 2026-11-06 | [solution](problems/0159-incremental-mean-for-online-reward-estimation) |
 | [Instruction Complexity Scoring via Unique Intention Tags](https://www.deep-ml.com/problems/792) | easy | 2026-09-10 | [solution](problems/0792-instruction-complexity-scoring-via-unique-intention-tags) |
+| [KL Divergence Estimator for GRPO](https://www.deep-ml.com/problems/225) | easy | 2026-11-10 | [solution](problems/0225-kl-divergence-estimator-for-grpo) |
 | [L2 Normalization Along an Axis](https://www.deep-ml.com/problems/1022) | easy | 2026-09-07 | [solution](problems/1022-l2-normalization-along-an-axis) |
 | [Laplace Smoothing for Bigram Probabilities](https://www.deep-ml.com/problems/987) | easy | 2026-09-22 | [solution](problems/0987-laplace-smoothing-for-bigram-probabilities) |
 | [Leaky ReLU Activation Function](https://www.deep-ml.com/problems/44) | easy | 2026-11-05 | [solution](problems/0044-leaky-relu-activation-function) |
