@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T17:35:19.045Z",
+  "generated_at": "2026-11-14T15:54:51.463Z",
   "items": {
     "problem:96": {
       "kind": "problem",
@@ -1700,6 +1700,19 @@
       "last_pushed_at": "2026-11-13T17:35:18.054Z",
       "language": "python",
       "lines": 6
+    },
+    "problem:100": {
+      "kind": "problem",
+      "id": "100",
+      "title": "Implement the Softsign Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/100",
+      "path": "problems/0100-implement-the-softsign-activation-function",
+      "first_solved_at": "2026-11-14T15:54:50.962Z",
+      "last_pushed_at": "2026-11-14T15:54:50.962Z",
+      "language": "python",
+      "lines": 2
     }
   }
 }
