@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T06:41:57.655Z",
+  "generated_at": "2026-11-17T11:10:26.876Z",
   "items": {
     "problem:96": {
       "kind": "problem",
@@ -1739,6 +1739,19 @@
       "last_pushed_at": "2026-11-16T06:41:58.030Z",
       "language": "python",
       "lines": 5
+    },
+    "problem:373": {
+      "kind": "problem",
+      "id": "373",
+      "title": "Implement the Square ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/373",
+      "path": "problems/0373-implement-the-square-relu-activation-function",
+      "first_solved_at": "2026-11-17T11:10:26.074Z",
+      "last_pushed_at": "2026-11-17T11:10:26.074Z",
+      "language": "python",
+      "lines": 11
     }
   }
 }
