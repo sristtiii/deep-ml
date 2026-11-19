@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T03:16:56.128Z",
+  "generated_at": "2026-11-19T05:19:47.651Z",
   "items": {
     "problem:96": {
       "kind": "problem",
@@ -1765,6 +1765,19 @@
       "last_pushed_at": "2026-11-18T03:16:55.085Z",
       "language": "python",
       "lines": 4
+    },
+    "problem:161": {
+      "kind": "problem",
+      "id": "161",
+      "title": "Exponential Weighted Average of Rewards",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/161",
+      "path": "problems/0161-exponential-weighted-average-of-rewards",
+      "first_solved_at": "2026-11-19T05:19:47.252Z",
+      "last_pushed_at": "2026-11-19T05:19:47.252Z",
+      "language": "python",
+      "lines": 6
     }
   }
 }

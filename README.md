@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**137** solved · 129 problems · 0 labs · 8 math
+**138** solved · 130 problems · 0 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -48,6 +48,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Duplicated N-gram Coverage Ratio](https://www.deep-ml.com/problems/772) | easy | 2026-09-11 | [solution](problems/0772-duplicated-n-gram-coverage-ratio) |
 | [Exact Match Score with Normalization](https://www.deep-ml.com/problems/325) | easy | 2026-08-22 | [solution](problems/0325-exact-match-score-with-normalization) |
 | [Expected Value and Variance of an n-Sided Die](https://www.deep-ml.com/problems/179) | easy | 2026-07-23 | [solution](problems/0179-expected-value-and-variance-of-an-n-sided-die) |
+| [Exponential Weighted Average of Rewards](https://www.deep-ml.com/problems/161) | easy | 2026-11-19 | [solution](problems/0161-exponential-weighted-average-of-rewards) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-08-03 | [solution](problems/0016-feature-scaling-implementation) |
 | [Filter rows with WHERE](https://www.deep-ml.com/problems/1103) | easy | 2026-09-30 | [solution](problems/1103-filter-rows-with-where) |
 | [Filter Rows with WHERE, Then Groups with HAVING](https://www.deep-ml.com/problems/2217) | easy | 2026-11-15 | [solution](problems/2217-filter-rows-with-where-then-groups-with-having) |
