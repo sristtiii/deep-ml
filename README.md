@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**141** solved · 133 problems · 0 labs · 8 math
+**142** solved · 134 problems · 0 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -65,6 +65,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-07-20 | [solution](problems/0042-implement-relu-activation-function) |
 | [Implement the ELU Activation Function](https://www.deep-ml.com/problems/97) | easy | 2026-11-11 | [solution](problems/0097-implement-the-elu-activation-function) |
 | [Implement the Hard Sigmoid Activation Function](https://www.deep-ml.com/problems/96) | easy | 2026-09-15 | [solution](problems/0096-implement-the-hard-sigmoid-activation-function) |
+| [Implement the SELU Activation Function](https://www.deep-ml.com/problems/103) | easy | 2026-11-23 | [solution](problems/0103-implement-the-selu-activation-function) |
 | [Implement the Softsign Activation Function](https://www.deep-ml.com/problems/100) | easy | 2026-11-14 | [solution](problems/0100-implement-the-softsign-activation-function) |
 | [Implement the Square ReLU Activation Function](https://www.deep-ml.com/problems/373) | easy | 2026-11-17 | [solution](problems/0373-implement-the-square-relu-activation-function) |
 | [Implement the Swish Activation Function](https://www.deep-ml.com/problems/102) | easy | 2026-11-20 | [solution](problems/0102-implement-the-swish-activation-function) |
