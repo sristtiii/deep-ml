@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T17:48:39.641Z",
+  "generated_at": "2026-11-28T06:04:13.354Z",
   "items": {
     "problem:96": {
       "kind": "problem",
@@ -1893,6 +1893,19 @@
       "path": "problems/0099-implement-the-softplus-activation-function",
       "first_solved_at": "2026-11-27T17:48:37.990Z",
       "last_pushed_at": "2026-11-27T17:48:37.990Z",
+      "language": "python",
+      "lines": 4
+    },
+    "problem:262": {
+      "kind": "problem",
+      "id": "262",
+      "title": "Implement the Mish Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/262",
+      "path": "problems/0262-implement-the-mish-activation-function",
+      "first_solved_at": "2026-11-28T06:04:12.014Z",
+      "last_pushed_at": "2026-11-28T06:04:12.014Z",
       "language": "python",
       "lines": 4
     }
